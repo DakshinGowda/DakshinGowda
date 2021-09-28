@@ -45,8 +45,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dakshingowda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dakshingowda/" height="30" width="40" /></a>
-<a href="https://kaggle.com/: https://kaggle.com/dakshinvenkatkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt=": https://kaggle.com/dakshinvenkatkumar" height="30" width="40" /></a>
+<a href="https://kaggle.com/dakshinvenkatkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dakshinvenkatkumar" height="20" width="25" /></a> 
+<a href="https://linkedin.com/in/dakshingowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dakshingowda" height="20" width="25" /></a>
 <a href="https://instagram.com/dakshingowdaonline__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dakshingowdaonline__" height="30" width="40" /></a>
 </p>
 
