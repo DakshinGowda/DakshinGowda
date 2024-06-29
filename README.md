@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **dakshingowda9@gmail.com**
+- 📫 How to reach me **dakshinjv@icloud.com**
 
 - ⚡ Fun fact **I play games and go to the GYM regularly.**
 
