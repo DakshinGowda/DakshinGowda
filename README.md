@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on [Country GDP](https://github.com/dakshingowda/Country-GDP)
+- 🔭 I’m currently working on [Country GDP](https://github.com/dakshin/Country-GDP)
 
 - 🌱 I’m currently learning Deep Learning.
 
